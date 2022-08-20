@@ -1,2 +1,1 @@
-# ALX Cohort 
-Learning cool code stuff
+my first readme
